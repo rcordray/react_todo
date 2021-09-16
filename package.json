@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1",
     "react-tooltip": "^3.10.0",
     "serialize-javascript": "^3.0.0",
-    "set-value": "^3.0.1"
+    "set-value": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
